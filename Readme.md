@@ -5,5 +5,5 @@
 * To run, provide an iface flag value (eth0, enp2so, wlp3s0 ...)  
 ```sudo ./packet_count --iface enp2s0```  
 
-* To find the network interface on your system:  
-```run on bash:$ ip link show```  
+* To find the network interface on your system,run on terminal:$  
+```ip link show```  
